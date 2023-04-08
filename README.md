@@ -25,10 +25,6 @@ sqlalchemy.url = sqlite:///./myapi.db
 (... 생략 ...)
 import models
 (... 생략 ...)
-# add your model's MetaData object here
-# for 'autogenerate' support
-# from myapp import mymodel
-# target_metadata = mymodel.Base.metadata
 target_metadata = models.Base.metadata
 (... 생략 ...)
 
