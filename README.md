@@ -2,8 +2,8 @@
 
 ## BACKEND
 
-\n Virtual Environment
-python3 -m venv venv
+#### Virtual Environment
+#### python3 -m venv venv
 
 * Entering VENV
 source venv/bin/activate
