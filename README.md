@@ -2,7 +2,7 @@
 
 ## BACKEND
 
-* Virtual Environment
+\n Virtual Environment
 python3 -m venv venv
 
 * Entering VENV
