@@ -50,3 +50,7 @@ npm install svelte-spa-router
 npm install bootstrap
 npm install moment
 npm install qs
+npm install marked
+
+frontend Build
+npm run build
